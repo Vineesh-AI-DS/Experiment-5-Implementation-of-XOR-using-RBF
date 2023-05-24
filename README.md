@@ -123,7 +123,9 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 ## OUTPUT :
-    
+
+![img1](https://github.com/Vineesh-AI-DS/Experiment-5-Implementation-of-XOR-using-RBF/assets/93427254/db9fab3b-05db-4cd6-b82d-635dda39037f)
+  
 
 ## RESULT:
 Thus XOR is successfully implemeted using RBF.
